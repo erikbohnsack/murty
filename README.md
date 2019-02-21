@@ -4,7 +4,8 @@ Python package for Murty's algorithm.
 
 ## Requirements
 
-Python 3.7
+- Python 3.7
+- Eigen 3.3
 
 ## Usage
 

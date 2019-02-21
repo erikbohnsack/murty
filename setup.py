@@ -70,7 +70,7 @@ class CMakeBuild(build_ext):
 
 
 setup(
-    name='src',
+    name='murty',
     version='1.0.0',
 
     description='Murtys algorithm as python module',
